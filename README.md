@@ -1,2 +1,2 @@
 # s3vault
-SImple scripts for S# backup.
+Simple scripts for S3 backup.
